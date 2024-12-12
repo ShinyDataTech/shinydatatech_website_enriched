@@ -1,0 +1,22 @@
+
+---
+title: "Welcome to Shiny Data Technology"
+output: html_document
+---
+
+# Shiny Data Technology Limited
+
+Welcome to **Shiny Data Technology**, where data meets innovation.
+
+We specialize in:
+- Building **Data Products** with cutting-edge **AI** and **advanced analytics** technologies.
+- Providing professional services in:
+  - Data Analysis
+  - Data Visualization
+  - Predictive Modelling
+  - LLM Agent Applications
+  - GIS and Remote Sensing
+
+Our mission is to empower businesses with transformative insights and powerful tools, paving the way for smarter decisions and better outcomes.
+
+Explore our services and get in touch to learn how we can drive value for your organization.

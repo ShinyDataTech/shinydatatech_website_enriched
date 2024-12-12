@@ -1,0 +1,24 @@
+
+---
+title: "Resources"
+output: html_document
+---
+
+# Resources
+
+Explore our curated resources to learn more about data analytics, AI, and cutting-edge technologies.
+
+## Articles and Tutorials
+- [Getting Started with Predictive Modelling](#)
+- [How to Use LLMs in Business Applications](#)
+- [A Guide to GIS and Remote Sensing for Beginners](#)
+
+## Case Studies
+- [Improving Road Safety with Data Analytics](#)
+- [Remote Sensing for Environmental Monitoring](#)
+- [LLM Agent Applications in Customer Service](#)
+
+## Tools and Frameworks
+- [Streamlit for Interactive Dashboards](#)
+- [Python Packages for Data Science](#)
+- [GIS Tools for Spatial Analysis](#)

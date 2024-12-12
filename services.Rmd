@@ -1,0 +1,29 @@
+
+---
+title: "Services"
+output: html_document
+---
+
+# Our Services
+
+At Shiny Data Technology, we offer a comprehensive range of services tailored to your data needs.
+
+## AI and Advanced Analytics
+- Predictive Modelling
+- Large Language Model (LLM) Agent Applications
+- Machine Learning and Deep Learning Solutions
+
+## Data Analysis and Visualization
+- Data Cleaning and Preparation
+- Interactive Dashboards and Reports
+- Customized Visualizations for Business Insights
+
+## GIS and Remote Sensing
+- Geographic Information Systems (GIS) Analysis
+- Remote Sensing Image Processing
+- Spatial Data Integration and Mapping
+
+## Professional Consultancy
+- Training and Workshops
+- Strategic Advisory on Data-driven Decision Making
+- Support for Research and Development Projects

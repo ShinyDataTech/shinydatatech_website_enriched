@@ -1,0 +1,27 @@
+
+---
+title: "About Us"
+output: html_document
+---
+
+# About Shiny Data Technology
+
+At Shiny Data Technology Limited, we are passionate about harnessing the power of data to transform businesses. 
+
+## Our Expertise
+- **AI and Advanced Analytics**: Unleashing the potential of data with state-of-the-art techniques.
+- **Professional Services**: Tailored solutions in:
+  - Data Analysis
+  - Data Visualization
+  - Predictive Modelling
+  - Large Language Model (LLM) Applications
+  - Geographic Information Systems (GIS)
+  - Remote Sensing
+
+## Our Vision
+To lead the way in data-driven innovation, enabling our clients to achieve their goals with precision, efficiency, and confidence.
+
+## Why Choose Us?
+- Expertise in diverse domains
+- Innovative approaches
+- Commitment to excellence
